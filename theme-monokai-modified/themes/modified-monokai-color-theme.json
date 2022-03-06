@@ -213,7 +213,7 @@
 		"scope": "entity.other.attribute-name",
 		"settings": {
 			"fontStyle": "",
-			"foreground": "#A6E22E"
+			"foreground": "#E6DB74"
 		}
 	}, {
 		"name": "Library function",
